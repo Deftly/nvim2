@@ -1,4 +1,4 @@
-local utils = require("utils.functions")
+local utils = require("core.utils.functions")
 local map = vim.keymap.set
 
 -- Remap for dealing with visual line wraps
